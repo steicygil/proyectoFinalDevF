@@ -1,0 +1,66 @@
+.resumen{
+    padding: 8%;
+    font-size: 2rem;
+    color: white;
+    
+}
+.tituloPrincipal{
+    margin-top: 10px;
+    padding-top: 2%;
+    font-size: 2.5rem;
+    color: white;
+}
+
+.titulo{
+    margin-top: 10px;
+    font-size: 2rem;
+    color: white;
+    padding-top: 10%;
+}
+
+.tituloResumen{
+    margin-top: 50px;
+    padding-top: 8%;
+    font-size: 2.5rem;
+    color: white;
+}
+
+.tituloTemporadas{
+    margin-top: 50px;
+    padding-top: 8%;
+    font-size: 2.5rem;
+    color: white;
+}
+
+.tituloElenco{
+    margin-top: 50px;
+    padding-top: 8%;
+    font-size: 2.5rem;
+    color: white;
+}
+
+.listaTempo{
+    color: white;
+    font-size: 2rem;
+    padding-bottom: 20px;
+}
+
+.textoCapitulo{
+    font-size: 2rem;
+}
+
+.navFijo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 10px;
+}
+
+.logo{
+    margin-left: 20px; 
+}
+
+.imagenSummary{
+    width: 200px;
+    height: 300px;
+}

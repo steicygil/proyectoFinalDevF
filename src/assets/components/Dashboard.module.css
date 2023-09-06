@@ -1,0 +1,32 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+.buttonSearch{
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    height: 50px;
+    background: #333;
+    border: none;
+    border-radius: 5px;
+    color: #FDFDFD;
+    padding: 1rem;
+    transition: all .1s ease-in-out;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.buttonSearch:hover{
+    cursor: pointer;
+    background: #072146;
+}
+
+.input{
+    height: 50px;
+    width: 30rem;
+    margin-right: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
